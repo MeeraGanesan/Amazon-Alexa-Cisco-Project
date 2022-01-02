@@ -1,2 +1,5 @@
 # Amazon-Alexa-Cisco-Project
-Documentation for Language Learner skill developed for Alexa as part of my Cisco project. Code is kept private.
+
+Note: The code is kept private, can show on need-to-know basis.
+
+This repository contains documentation for the language learning skill my team and I developed for Amazon Alexa.
